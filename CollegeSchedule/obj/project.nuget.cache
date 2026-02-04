@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJFq8/7khnc=",
+  "dgSpecHash": "K+GOozdkRJk=",
   "success": true,
-  "projectFilePath": "D:\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
+  "projectFilePath": "C:\\Users\\мабой\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\мабой\\.nuget\\packages\\dotnetenv\\3.1.1\\dotnetenv.3.1.1.nupkg.sha512",
     "C:\\Users\\мабой\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

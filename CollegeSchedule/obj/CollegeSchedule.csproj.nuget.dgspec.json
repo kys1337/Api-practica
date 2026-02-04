@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj": {}
+    "C:\\Users\\мабой\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj": {}
   },
   "projects": {
-    "D:\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj": {
+    "C:\\Users\\мабой\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
+        "projectUniqueName": "C:\\Users\\мабой\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
         "projectName": "CollegeSchedule",
-        "projectPath": "D:\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
+        "projectPath": "C:\\Users\\мабой\\source\\repos\\CollegeSchedule\\CollegeSchedule\\CollegeSchedule.csproj",
         "packagesPath": "C:\\Users\\мабой\\.nuget\\packages\\",
-        "outputPath": "D:\\CollegeSchedule\\CollegeSchedule\\obj\\",
+        "outputPath": "C:\\Users\\мабой\\source\\repos\\CollegeSchedule\\CollegeSchedule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

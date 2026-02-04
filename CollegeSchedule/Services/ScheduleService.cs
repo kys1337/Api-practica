@@ -127,6 +127,20 @@ lessonGroup)
                 Lessons = new List<LessonDto>()
             };
         }
-      
+        public async Task<List<GroupDto>> GetAllGroups()
+        {
+            return await _db.StudentGroups
+                .Include(g => g.Specialty)
+                .Select(g => new GroupDto
+                {
+                    GroupId = g.GroupId,
+                    GroupName = g.GroupName,
+                    Course = g.Course,
+                    SpecialtyName = g.Specialty.Name
+                })
+                .OrderBy(g => g.GroupName)
+                .ToListAsync();
+        }
+
     }  
 } 
