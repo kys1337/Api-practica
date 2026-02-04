@@ -1,0 +1,11 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.db
+.env
+appsettings.Development.json
+/publish/
+*.swp
+*.swo
